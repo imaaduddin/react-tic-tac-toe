@@ -1,1 +1,6 @@
 Creating a Tic-Tac-Toe app using React.
+
+FEATURES:
+1. Create & edit player names.
+2. Tracking each players moves.
+3. Detecting draws.
